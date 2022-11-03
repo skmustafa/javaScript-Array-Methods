@@ -1,0 +1,15 @@
+{
+  "name": "arraymethods",
+  "version": "1.0.0",
+  "description": "array handson",
+  "main": "employees.js",
+  "scripts": {
+  
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mustafa",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
